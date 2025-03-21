@@ -1,0 +1,512 @@
+Uri: https://dexend.xyz/
+File Name: F:\dexend.xyz\index.htm
+Content Type: text/html
+
+Uri: https://dexend.xyz/index.php/comments/feed/
+File Name: F:\dexend.xyz\index.php\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dexend.xyz/index.php/feed/
+File Name: F:\dexend.xyz\index.php\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dexend.xyz/index.php/wp-json/
+File Name: F:\dexend.xyz\index.php\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://dexend.xyz/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fdexend.xyz%2F
+File Name: F:\dexend.xyz\index.php\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://dexend.xyz/index.php/wp-json/oembed/1.0/embed?url=https:%2F%2Fdexend.xyz%2F&format=xml
+File Name: F:\dexend.xyz\index.php\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://dexend.xyz/index.php/wp-json/wp/v2/pages/8
+File Name: F:\dexend.xyz\index.php\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.23.3
+File Name: F:\dexend.xyz\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.23.3
+File Name: F:\dexend.xyz\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.23.3
+File Name: F:\dexend.xyz\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.23.3
+File Name: F:\dexend.xyz\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.23.4
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.23.4
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.23.4
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.23.4
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.23.4
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.23.4
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.23.4
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: F:\dexend.xyz\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.4.5
+File Name: F:\dexend.xyz\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.4.5
+File Name: F:\dexend.xyz\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: F:\dexend.xyz\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://dexend.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.4.5
+File Name: F:\dexend.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.4.5
+File Name: F:\dexend.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: F:\dexend.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: F:\dexend.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://dexend.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: F:\dexend.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: F:\dexend.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: F:\dexend.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.4.5
+File Name: F:\dexend.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.4.5
+File Name: F:\dexend.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.4.5
+File Name: F:\dexend.xyz\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/metform/public/assets/css/text-editor.css?ver=3.9.6
+File Name: F:\dexend.xyz\wp-content\plugins\metform\public\assets\css\text-editor.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js?ver=3.9.6
+File Name: F:\dexend.xyz\wp-content\plugins\metform\public\assets\lib\cute-alert\cute-alert.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/plugins/metform/public/assets/lib/cute-alert/style.css?ver=3.9.6
+File Name: F:\dexend.xyz\wp-content\plugins\metform\public\assets\lib\cute-alert\style.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.3.0
+File Name: F:\dexend.xyz\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.3.0
+File Name: F:\dexend.xyz\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/themes/hello-elementor/style.min.css?ver=3.3.0
+File Name: F:\dexend.xyz\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/themes/hello-elementor/theme.min.css?ver=3.3.0
+File Name: F:\dexend.xyz\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-3-1024x213.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-3-1024x213.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-3-1536x320.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-3-1536x320.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-3-300x63.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-3-300x63.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-3-768x160.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-3-768x160.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-3.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-3.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-7-300x283.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-7-300x283.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-7-768x723.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-7-768x723.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-7.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-7.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-8-300x270.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-8-300x270.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-8.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-8.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-9-1024x1024.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-9-1024x1024.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-9-150x150.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-9-150x150.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-9-1536x1536.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-9-1536x1536.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-9-300x300.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-9-300x300.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-9-768x768.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-9-768x768.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Asset-9.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Asset-9.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Banner_Background.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Banner_Background.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Banner_Background_Overlay.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Banner_Background_Overlay.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Clients_Protect.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Clients_Protect.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/cropped-DEXEND-02-180x180.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\cropped-DEXEND-02-180x180.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/cropped-DEXEND-02-192x192.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\cropped-DEXEND-02-192x192.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/cropped-DEXEND-02-32x32.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\cropped-DEXEND-02-32x32.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Experts_Team.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Experts_Team.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Footer-DesignElement-2.jpg
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Footer-DesignElement-2.jpg
+Content Type: image/jpeg
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Global_Projects.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Global_Projects.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Service_Gurantee.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Service_Gurantee.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/What_We_Do-BgOverlay.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\What_We_Do-BgOverlay.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Why_Choose_Us-1-1.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Why_Choose_Us-1-1.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Why_Choose_Us-2.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Why_Choose_Us-2.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Why_Choose_Us-3.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Why_Choose_Us-3.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/2025/03/Why_Choose_Us-BgDesignElement.png
+File Name: F:\dexend.xyz\wp-content\uploads\2025\03\Why_Choose_Us-BgDesignElement.png
+Content Type: image/png
+
+Uri: https://dexend.xyz/wp-content/uploads/elementor/css/post-75.css?ver=1741836939
+File Name: F:\dexend.xyz\wp-content\uploads\elementor\css\post-75.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-content/uploads/elementor/css/post-8.css?ver=1741859418
+File Name: F:\dexend.xyz\wp-content\uploads\elementor\css\post-8.css
+Content Type: text/css
+
+Uri: https://dexend.xyz/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: F:\dexend.xyz\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: F:\dexend.xyz\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: F:\dexend.xyz\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: F:\dexend.xyz\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: F:\dexend.xyz\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://dexend.xyz/xmlrpc.php?rsd
+File Name: F:\dexend.xyz\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Jost:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.7.2
+File Name: F:\dexend.xyz\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCBIokmw.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCBIokmw.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCBIokmw.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CBIokmw.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FBIokmw.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFBIokmw.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FBIokmw.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0EBIokmw.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0EBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBIokmw.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7mwjIjVBNI0.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7mwjIjVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7mwjJTVBNI0.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7mwjJTVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7mwKIjVBNI0.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7mwKIjVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7mx9IjVBNI0.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7mx9IjVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7mxEIjVBNI0.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7mxEIjVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7myjJDVBNI0.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7myjJDVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7myjJTVBNI0.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7myjJTVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7myRJTVBNI0.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7myRJTVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v18/92zPtBhPNqw79Ij1E865zBUv7mz9JTVBNI0.ttf
+File Name: F:\dexend.xyz\s\jost\v18\92zPtBhPNqw79Ij1E865zBUv7mz9JTVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: F:\dexend.xyz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: F:\dexend.xyz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: F:\dexend.xyz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: F:\dexend.xyz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: F:\dexend.xyz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: F:\dexend.xyz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: F:\dexend.xyz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: F:\dexend.xyz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: F:\dexend.xyz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
